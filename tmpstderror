@@ -1,0 +1,12 @@
+Latexmk: This is Latexmk, John Collins, 17 March 2019, version: 4.63b.
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  --shell-escape -interaction=nonstopmode -recorder  "band18.tex"'
+------------
+Latexmk: Missing input file: 'abc.sty' from line
+  '! LaTeX Error: File `abc.sty' not found.'
+Failure to make 'band18.pdf'

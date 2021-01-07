@@ -1,0 +1,30 @@
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+(./band18.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty))
+
+! LaTeX Error: File `abc.sty' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: sty)
+
+Enter file name: 
+! Emergency stop.
+<read *> 
+         
+l.6 \usepackage
+               {fancyhdr}^^M
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on band18.log.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, in force_mode: so I tried finishing targets
